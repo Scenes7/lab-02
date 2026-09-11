@@ -5,8 +5,8 @@
 - **CCID:** siquan1
 
 ## References and Resources
-Lab Session
-https://ualberta-cmput301.github.io/labs/slides/2026-Lab-2-ListyCity-Instructions.pdf
+- Lab Session
+- https://ualberta-cmput301.github.io/labs/slides/2026-Lab-2-ListyCity-Instructions.pdf
 
 ## Verbal Collaboration
 N/A
